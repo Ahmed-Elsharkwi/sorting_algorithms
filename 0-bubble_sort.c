@@ -3,6 +3,7 @@
  * bubble_sort - sorts an array of integers in ascending order
  * @array: is an array of integers
  * @size: is the size of the array
+ * Return: void
  */
 void bubble_sort(int *array, size_t size)
 {
